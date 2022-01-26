@@ -9,7 +9,8 @@
 ## Example code
 ```<javascript>
 alert('ok');
-</janascript>``
+</janascript>```
+
 ## Credit
 [benzthatchapong@gmail.com](benzthatchapong@gmail.com)
 ## License
