@@ -9,7 +9,7 @@
 ## Example code
 ```
 <javascript>
-alert('ok');
+  alert('ok');
 </janascript>
 ```
 
