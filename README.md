@@ -1,5 +1,5 @@
 # Javascript Alert App
-![link](https://www.4x-treme.com/wp-content/uploads/2020/10/java-icon-images-6.jpg =100x20)
+![link](https://www.4x-treme.com/wp-content/uploads/2020/10/java-icon-images-6.jpg)
 
 โปรเจคเว็บแอพฯ จัดทำโดย (ชื่อ)
 ## Features
