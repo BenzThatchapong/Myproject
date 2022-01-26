@@ -7,9 +7,9 @@
 - list 2
 - list 3
 ## Example code
-```<javascript>
+`<javascript>
 alert('ok');
-</janascript>```
+</janascript>`
 
 ## Credit
 [benzthatchapong@gmail.com](benzthatchapong@gmail.com)
